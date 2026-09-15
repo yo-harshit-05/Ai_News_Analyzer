@@ -66,6 +66,7 @@ AI-News-Analyzer/
 │
 ├── .gitignore
 └── README.md
+```
 ⚙️ Requirements
 
 Before running the project, install the following:
