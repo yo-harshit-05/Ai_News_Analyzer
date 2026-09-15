@@ -43,6 +43,7 @@ The project consists of a **Flutter frontend** and a **Python backend**.
 
 # 📁 Project Structure
 
+```text
 AI-News-Analyzer/
 │
 ├── ai_news_analyzer/          # Flutter Frontend
@@ -77,7 +78,7 @@ Android Studio or VS Code
 Android Emulator or physical Android device
 🔧 Backend Setup
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/yo-harshit-05/Ai_News_Analyzer.git
 
 Go inside the project:
 
