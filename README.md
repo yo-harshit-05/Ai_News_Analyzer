@@ -67,7 +67,7 @@ AI-News-Analyzer/
 ├── .gitignore
 └── README.md
 ```
-⚙️ Requirements
+#⚙️ Requirements
 
 Before running the project, install the following:
 
@@ -94,7 +94,7 @@ macOS / Linux
 source venv/bin/activate
 4. Install Dependencies
 pip install -r requirements.txt
-🔑 Environment Variables
+#🔑 Environment Variables
 
 The .env file is not included in this repository for security reasons.
 
@@ -142,7 +142,7 @@ flutter devices
 Run the application:
 
 flutter run
-🔗 Frontend–Backend Connection
+#🔗 Frontend–Backend Connection
 
 The Flutter application communicates with the Python backend using REST APIs.
 
@@ -176,7 +176,7 @@ flutter test
 To check the Flutter project:
 
 flutter doctor
-📦 Important Notes
+#📦 Important Notes
 
 The following files/folders are intentionally not included in GitHub:
 
@@ -195,7 +195,7 @@ pip install -r requirements.txt
 and:
 
 flutter pub get
-🔒 Security
+#🔒 Security
 
 Do not commit sensitive information such as:
 
@@ -207,7 +207,7 @@ Secret configuration files
 
 Use environment variables through .env instead.
 
-🖥️ Running the Complete Project
+#🖥️ Running the Complete Project
 Terminal 1 — Backend
 cd Ai-News-Backend
 venv\Scripts\activate
@@ -217,7 +217,7 @@ Terminal 2 — Flutter
 cd ai_news_analyzer
 flutter pub get
 flutter run
-🤝 Contributing
+#🤝 Contributing
 
 Contributions are welcome!
 
@@ -231,7 +231,7 @@ git commit -m "Add new feature"
 Push the branch
 git push origin feature/new-feature
 Create a Pull Request
-👨‍💻 Author
+#👨‍💻 Author
 
 Harshit Kumar
 
